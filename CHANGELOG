@@ -1,3 +1,9 @@
+ethernet4pizero (1.0-1) jammy; urgency=medium
+
+  * Fixed wrong JLCPCB part number for the DSC1001DI1-025.0000T clock oscillator IC.
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Fri, 09 Aug 2024 12:53:01 +0200
+
 ethernet4pizero (1.0) jammy; urgency=medium
 
   * Initial release

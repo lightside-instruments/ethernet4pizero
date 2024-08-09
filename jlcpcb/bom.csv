@@ -11,6 +11,8 @@ L,L1,Inductor_SMD:L_1210_3225Metric,C139159
 1K,"R6,R7",Resistor_SMD:R_0402_1005Metric,C478866
 100nF,"C1,C2,C5,C6,C7,C8",Capacitor_SMD:C_0402_1005Metric,C1525
 USB_C_Receptacle_USB2.0,J3,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,C167321
-DSC1001DI1-025.0000,U2,Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm,C255956
+DSC1001DI1-025.0000,U2,Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm,C1670739
 10K,R8,Capacitor_SMD:C_0402_1005Metric,C25744
 0.01uF,C3,Capacitor_SMD:C_0402_1005Metric,C15195
+SSW-120-01-T-D-006,J2,ice4pi:PinSocket_2x20_P2.54mm_Vertical_1_04mm,C35165
+
